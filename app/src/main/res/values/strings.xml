@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EmptyActivity2023</string>
+
+    <string-array name="spinnerItems">
+        <item>piwo1</item>
+        <item>piwo2</item>
+        <item>piwo3</item>
+        <item>piwo4</item>
+    </string-array>
+
+</resources>
